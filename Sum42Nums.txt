@@ -1,0 +1,10 @@
+
+public Int Sum1To42()
+{
+	int sum =0;
+	for (int indx=0;index<43;indx++)
+	{	
+		sum +=indx;
+	}
+	return sum;
+}
